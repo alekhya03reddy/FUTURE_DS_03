@@ -31,15 +31,20 @@ These KPIs provide a clear understanding of funnel efficiency, showing how effec
 # Analysis and Findings:
 1.Customer Conversion Distribution
 This chart illustrates the proportion of customers who converted versus those who did not. It indicates that while a majority of customers are retained or converted, a notable portion still drops off, highlighting scope for improvement.
+
 2.Monthly Conversion Performance
 This chart compares conversion outcomes across different months. It shows that conversion rates vary over time, suggesting that campaign timing and seasonal factors influence customer decisions.
+
 3.Conversion Trend Analysis
 This chart represents the trend of customer conversions over time. It helps identify patterns of growth or decline, enabling businesses to understand periods of high and low performance.
 4.Customer Segment Conversion Analysis
 This chart analyzes conversion rates across different customer segments such as job categories. It highlights that certain groups have higher conversion rates, enabling more targeted and effective marketing strategies.
+
 5.Customer Engagement vs Conversion Analysis
 This chart examines the relationship between customer engagement and conversion outcomes. It shows that higher engagement levels are generally associated with increased likelihood of conversion, emphasizing the importance of interaction quality.
-<img width="81" height="25" alt="image" src="https://github.com/user-attachments/assets/03473b3c-8388-4bb0-b13e-13878593566f" />
+
+<img width="1623" height="607" alt="Screenshot 2026-04-30 083843" src="https://github.com/user-attachments/assets/9654851b-b377-4d2a-88c3-4a4758f98108" />
+
 
 # Analysis
 Major drop-off occurs at the initial stage (contact → interest)
